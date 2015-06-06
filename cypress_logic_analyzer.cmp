@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Tue 07 Apr 2015 07:13:50 PM PDT
+
+BeginCmp
+TimeStamp = /551F8B16;
+Reference = P1;
+ValeurCmp = CONN_02X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8BDD;
+Reference = P2;
+ValeurCmp = CONN_02X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5520DF92;
+Reference = P3;
+ValeurCmp = CONN_01X09;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x09;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8F27;
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8F90;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8FE7;
+Reference = R3;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F9032;
+Reference = R4;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F9077;
+Reference = R5;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F90CA;
+Reference = R6;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F9117;
+Reference = R7;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8ED0;
+Reference = R8;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5520CCBF;
+Reference = U1;
+ValeurCmp = 74LCX245;
+IdModule  = Housings_SOIC:SOIC-20_7.5x12.8mm_Pitch1.27mm;
+EndCmp
+
+EndListe
