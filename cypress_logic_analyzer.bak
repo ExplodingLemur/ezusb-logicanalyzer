@@ -362,20 +362,20 @@ Text Label 5900 2450 2    60   ~ 0
 PB5
 Text Label 5900 2350 2    60   ~ 0
 PB7
-Text Label 4550 2250 1    60   ~ 0
-PB0
-Text Label 4450 2250 1    60   ~ 0
-PB1
-Text Label 4350 2250 1    60   ~ 0
-PB2
-Text Label 4250 2250 1    60   ~ 0
-PB3
-Text Label 4150 2250 1    60   ~ 0
-PB4
-Text Label 4050 2250 1    60   ~ 0
-PB5
-Text Label 3950 2250 1    60   ~ 0
-PB6
 Text Label 3850 2250 1    60   ~ 0
+PB0
+Text Label 3950 2250 1    60   ~ 0
+PB1
+Text Label 4050 2250 1    60   ~ 0
+PB2
+Text Label 4150 2250 1    60   ~ 0
+PB3
+Text Label 4250 2250 1    60   ~ 0
+PB4
+Text Label 4350 2250 1    60   ~ 0
+PB5
+Text Label 4450 2250 1    60   ~ 0
+PB6
+Text Label 4550 2250 1    60   ~ 0
 PB7
 $EndSCHEMATC
